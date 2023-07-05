@@ -18,7 +18,7 @@
 
 #### 관심 분야 📚
 
-###### **Natural Language Processing, Dialogue State Tracking ,Sentiment Analysis**
+###### **Dialogue system, Explainable AI in NLP, Prompt learning and Large Language model**
 
 
 
@@ -26,7 +26,7 @@
 
 #### 개발 스킬 👨‍💻
 
-###### Python, Java, C, C++, Pytorch, SQL, Hadoop-Ecosystem, Processing
+###### Pytorch, Python, LangChain / Has experience : Nemo, Triton, Gradio
 
 ---
 
